@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Lookup a definition" skipped="0" tests="1" time="44.08" timestamp="2018-07-18T09:24:57.809-05:00[America/Bogota]"><testcase name="Looking up the definition of 'Youtube'"><error message="The following error occurred: no such window: target window already closed&#10;from unknown error: web view not found&#10;  (Session info: chrome=67.0.3396.99)&#10;  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'&#10;System info: host: 'CPX-0KIXNUNA816', ip: '172.16.10.65', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_172'&#10;Driver info: org.openqa.selenium.remote.RemoteWebDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\NICOLA~1.GUT\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}&#10;Session ID: 9e4f3aafcee395e10f35d3c925c570a3&#10;*** Element info: {Using=tag name, value=ol}&#10;Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'&#10;System info: host: 'CPX-0KIXNUNA816', ip: '172.16.10.65', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_172'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchWindowException">The following error occurred: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'CPX-0KIXNUNA816', ip: '172.16.10.65', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\NICOLA~1.GUT\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 9e4f3aafcee395e10f35d3c925c570a3
+*** Element info: {Using=tag name, value=ol}
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'CPX-0KIXNUNA816', ip: '172.16.10.65', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: driver.version: unknown</error><system-err>The following error occurred: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'CPX-0KIXNUNA816', ip: '172.16.10.65', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\NICOLA~1.GUT\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 9e4f3aafcee395e10f35d3c925c570a3
+*** Element info: {Using=tag name, value=ol}
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'CPX-0KIXNUNA816', ip: '172.16.10.65', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: driver.version: unknown&#13;
+com.accenture.YoutubeTarea4.pages.DictionaryPage.getDefinitions(DictionaryPage.java:66)&#13;
+com.accenture.YoutubeTarea4.steps.serenity.EndUserSteps.should_see_definition(EndUserSteps.java:32)&#13;
+com.accenture.YoutubeTarea4.steps.DefinitionSteps.thenTheyShouldSeeADefinitionContainingTheWords(DefinitionSteps.java:28)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:538)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:760)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:460)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:206)&#13;
+</system-err></testcase></testsuite>
